@@ -1,1 +1,1 @@
-
+Placeholder voor de samenvatting.

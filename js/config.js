@@ -16,7 +16,7 @@ let respecConfig = {
   content:
     {
         "ROAP-conversies": "informative",
-        "Leganda": "informative",
+        "legenda": "informative",
     },
   editors:
     [
@@ -34,7 +34,7 @@ let respecConfig = {
         companyURL: "https://github.com/Logius-standaarden",
       }
     ],
-  github: "https://github.com/Logius-standaarden/ReSpec-template",
+  github: "https://github.com/Logius-standaarden/ROAP-conversies",
 
 
   // Create PDF and link to file in header (optional):
